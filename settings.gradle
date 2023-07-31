@@ -1,4 +1,10 @@
 rootProject.name = 'Java-2022-12'
-include 'L01-gradle'
+include 'hw06-atm'
+include 'hw02-generics'
+include 'hw03-test-framework'
+include 'hw04-gc'
+include 'hw05-aop'
 include 'hw01-gradle'
+
+
 
